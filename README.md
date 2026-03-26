@@ -2,7 +2,7 @@
 
 **Java Developer** | **Spring Boot**  
 📧 mahtabmohd707@gmail.com | 📞 +91 7065806374  
-🔗 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/mahtab-ali-5a6641232/)) | [GitHub](https://github.com/mahtabali43) | [LeetCode](https://leetcode.com/your-handle)
+🔗 [LinkedIn](www.linkedin.com/in/mahtab-ali-5a6641232)) | [GitHub](https://github.com/mahtabali43) | [LeetCode](https://leetcode.com/your-handle)
 
 ---
 
